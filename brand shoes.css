@@ -1,0 +1,41 @@
+*{
+  background-color: rgb(121, 73, 73);
+}
+#rr {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+  
+}
+#gh {
+  margin-left: 18px;
+  border-radius: 15px;
+}
+#ert {
+  margin-left: 70px;
+}
+#rt {
+  margin-left: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+#ff {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(42, 27, 42);
+}
+#err {
+  margin-left: 600px;
+  background-color: whitesmoke;
+  color: black;
+  font-size: 30px;
+  border-radius: 10px;
+}
+#er {
+  background-color: whitesmoke;
+}
+#jj {
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
