@@ -1,0 +1,177 @@
+
+*{
+  background-color:coral;
+  
+}
+#uy {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+  color: navy;
+  text-decoration-color: rgb(199, 68, 68);
+  background-image: url(bag1.jpg);
+}
+#er{
+  background-color: rgb(151, 87, 87);
+  margin-right: 30px;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#size {
+  font-size: 59px;
+  color: rgb(64, 50, 46);
+  
+  margin-right: 10px;
+  border-radius: 20px;
+  
+  text-decoration-color: black;
+}
+#ert {
+  margin-left: 70px;
+  
+  
+}
+
+
+h3 {
+  font-size: 35px;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+  background-position: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+#rt {
+  margin-left: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.home {
+  background-color: cyan;
+  text-decoration: solid;
+  font-style: italic;
+}
+#tt{
+  background-color: azure;
+  color: black;
+  border-radius: 5px;
+  width: 58%;
+  height: 30px;
+  margin-left: 10px;
+}
+.nn{
+  background-color: cyan;
+  border-radius: 20px;
+  margin-left: 40px;
+  font-size: 17px;
+  
+}
+.vv {
+  background-color: rgb( 85, 211, 85);
+  margin-left: 60px;
+
+}
+.bb {
+  background-color: rgb(85, 211, 85);
+}
+#ww {
+  border-radius: 50%;
+  margin-left: 60px;
+  
+}
+#ii {
+  border-radius: 50%;
+  margin: 30px;
+  
+}
+#qq{
+  text-align: center;
+}
+#yy {
+  margin-left: 330px;
+  border-radius: 20px;
+}
+#gh { 
+  margin-left: 18px;
+  border-radius: 15px;
+}
+#gw { background-color: black;
+  color: antiquewhite;
+
+  text-align: center;
+
+
+}
+#gs {
+  background-color: gray;
+  font-size: larger;
+  text-align: justify;
+  color: beige;
+  margin-left: 410px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  color: black;
+  margin-top: 40px;
+  font-size: 30px;
+  font-style: italic;
+  
+}
+
+#gss{
+  font-size: 30px;
+  margin-top: 40px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  color: black;
+  margin-left: 210px;
+  font-size: larger;
+  margin-top: 40px;
+  font-style: italic;
+
+}
+#gsss{
+  font-size: 30px;
+  margin-top: 40px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  color: black;
+  margin-left: 430px;
+  font-size: larger;
+  margin-top: 40px;
+  font-style: italic;
+
+}
+#gssss{
+  font-size: 30px;
+  margin-top: 40px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  color: black;
+  margin-left: 430px;
+  font-size: larger;
+  margin-top: 40px;
+  font-style: italic;
+
+}
+#gt{
+  
+  font-size: 30px;
+  margin-top: 40px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  color: black;
+  margin-left:450px;
+  font-size: larger;
+  margin-top: 40px;
+  font-style: italic;
+}
+#gu {
+  font-size: 50px;
+  text-decoration:underline;
+  text-decoration-color: blue;
+  margin-left:450px;
+  font-style: italic;
+  
+}
